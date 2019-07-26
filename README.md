@@ -12,7 +12,7 @@ Demo can be found [here](https://vincentjames501.github.io/angular-cron-gen/).
 1. Include the dependency in your app
 
     ```js
-    angular.module('myApp', ['angular-cron-gen-'])
+    angular.module('myApp', ['angular-cron-gen'])
     ```
 
 2. Include the supplied JS and CSS file (or create your own CSS to override defaults).
